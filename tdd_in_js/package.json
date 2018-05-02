@@ -1,0 +1,15 @@
+{
+  "name": "tdd_in_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "money.js",
+  "dependencies": {
+    "jest": "^22.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
